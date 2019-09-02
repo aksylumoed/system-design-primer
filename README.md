@@ -932,6 +932,7 @@ In most systems, reads can heavily outnumber writes 100:1 or even 1000:1.  A rea
 
 ###### Source(s) and further reading: denormalization
 
+* [Detailed Guide to Denormalization](https://rubygarage.org/blog/database-denormalization-with-examples)
 * [Denormalization](https://en.wikipedia.org/wiki/Denormalization)
 
 #### SQL tuning
