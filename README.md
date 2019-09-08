@@ -794,7 +794,7 @@ Systems such as [Consul](https://www.consul.io/docs/index.html), [Etcd](https://
 * Microservices can add complexity in terms of deployments and operations.
 
 ### Source(s) and further reading
-
+* [Design Robust and Predictable APIs w/ Idempotency](https://puncsky.com/notes/43-how-to-design-robust-and-predictable-apis-with-idempotency)
 * [Intro to architecting systems for scale](http://lethain.com/introduction-to-architecting-systems-for-scale)
 * [Crack the system design interview](http://www.puncsky.com/blog/2016-02-13-crack-the-system-design-interview)
 * [Service oriented architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)
